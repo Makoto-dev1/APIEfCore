@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "A:\\Senai\\API\\SenaiEfCore\\SenaiEfCore.csproj": {}
+    "A:\\Senai\\API\\novaAPI\\APIEfCore\\SenaiEfCore.csproj": {}
   },
   "projects": {
-    "A:\\Senai\\API\\SenaiEfCore\\SenaiEfCore.csproj": {
+    "A:\\Senai\\API\\novaAPI\\APIEfCore\\SenaiEfCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\Senai\\API\\SenaiEfCore\\SenaiEfCore.csproj",
+        "projectUniqueName": "A:\\Senai\\API\\novaAPI\\APIEfCore\\SenaiEfCore.csproj",
         "projectName": "SenaiEfCore",
-        "projectPath": "A:\\Senai\\API\\SenaiEfCore\\SenaiEfCore.csproj",
+        "projectPath": "A:\\Senai\\API\\novaAPI\\APIEfCore\\SenaiEfCore.csproj",
         "packagesPath": "C:\\Users\\wrlma\\.nuget\\packages\\",
-        "outputPath": "A:\\Senai\\API\\SenaiEfCore\\obj\\",
+        "outputPath": "A:\\Senai\\API\\novaAPI\\APIEfCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wrlma\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -57,6 +57,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[3.1.8, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.5.0, )"
             }
           },
           "imports": [
