@@ -5909,11 +5909,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "A:\\Senai\\API\\novaAPI\\APIEfCore\\SenaiEfCore.csproj",
+      "projectUniqueName": "A:\\Senai\\API\\APIEfCore\\SenaiEfCore.csproj",
       "projectName": "SenaiEfCore",
-      "projectPath": "A:\\Senai\\API\\novaAPI\\APIEfCore\\SenaiEfCore.csproj",
+      "projectPath": "A:\\Senai\\API\\APIEfCore\\SenaiEfCore.csproj",
       "packagesPath": "C:\\Users\\wrlma\\.nuget\\packages\\",
-      "outputPath": "A:\\Senai\\API\\novaAPI\\APIEfCore\\obj\\",
+      "outputPath": "A:\\Senai\\API\\APIEfCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wrlma\\AppData\\Roaming\\NuGet\\NuGet.Config",
